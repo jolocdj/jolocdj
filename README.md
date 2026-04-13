@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="left">
-  Hi there, I am Aishika 
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35px" />
+  Hi there, I am AJ! 
+  <img src="https://pin.it/4L5prS3x5" width="35px" />
 </h1>
 
 ---
