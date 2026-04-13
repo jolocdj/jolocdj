@@ -23,7 +23,7 @@ Always excited to work on something creative and meaningful.
       <img src="./metrics.classic.svg" />
     </td>
     <td>
-      <img src="./metrics.plugin.isocalendar.fullyear.svg" />
+      <img src="./metrics.plugin.isocalendar.full-year.svg" />
     </td>
   </tr>
 </table>
