@@ -4,7 +4,7 @@
 
 <h1 align="left">
   Hi there, I am AJ! 
-  <img src="[https://pin.it/4L5prS3x5](https://i.pinimg.com/1200x/1c/f2/18/1cf2182eb81150866e6ec2b867f85d77.jpg)" width="35px" />
+  <img src="https://i.pinimg.com/1200x/1c/f2/18/1cf2182eb81150866e6ec2b867f85d77.jpg" width="35px" />
 </h1>
 
 ---
