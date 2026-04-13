@@ -1,13 +1,11 @@
-<p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <h1 align="left">
   Hi there, I am AJ! 
-  <img src="https://github.com/user-attachments/assets/b3a16da5-e7b2-44e2-9915-6fe6b5388276" width="60px" style="vertical-align: -50px;" />
+  <img src="https://github.com/user-attachments/assets/bb40e8fc-f340-42fb-a0d9-ea2e16319cb9" width="60px" style="vertical-align: -15px;" />
 </h1>
-
----
 
 ## About Me
 
