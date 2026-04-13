@@ -1,43 +1,16 @@
-<!-- PROFILE README -->
-
-<p align="center">
-  <img src="https://your-image-link-here" alt="banner" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/ae/49/f0/ae49f0b2eaf092695185f90a8ce26df8.gif" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Jolo</h1>
-<h3 align="center">Aspiring Developer | Tech Enthusiast</h3>
-
----
-
 ## 🚀 About Me
-- 🔭 I’m currently working on: **Your Project Here**
 - 🌱 I’m currently learning: **Web Development / Python**
 - 👯 I’m looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **Coding, Tech, or Projects**
 - ⚡ Fun fact: I code better at night 🌙
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jolocdj&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=jolocdj&theme=tokyonight" />
-</p>
-
 ---
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jolocdj&theme=tokyo-night" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
