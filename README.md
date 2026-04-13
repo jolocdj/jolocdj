@@ -4,7 +4,9 @@
 
 <h1 align="left">
   Hi there, I am AJ! 
-  <img  src="https://github.com/user-attachments/assets/b3a16da5-e7b2-44e2-9915-6fe6b5388276" />
+  <img src="https://github.com/user-attachments/assets/b3a16da5-e7b2-44e2-9915-6fe6b5388276" width="40px" />
+</h1>
+
 
 ---
 
