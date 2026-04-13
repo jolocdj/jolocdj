@@ -1,12 +1,11 @@
-<h1 align="center">Hi there, I'm Jolo! ˙ᵕ˙ </h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://www.pinterest.com/pin/23855073022666204/" width="140" alt="custom sticker" />
-</p>
+<h1 align="left">
+  Hi there, I am Aishika 
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35px" />
+</h1>
 
 ---
 
