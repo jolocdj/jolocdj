@@ -1,6 +1,5 @@
 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /></p>
 
 <h1 align="left">
   Hi there, I am AJ! 
@@ -23,7 +22,7 @@ Always excited to work on something creative and meaningful.
   <img src="./metrics.classic.svg" />
 </p>
 
-<p align="right">
+<p align="left">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" />
 </p>
 
