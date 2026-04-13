@@ -19,13 +19,11 @@ I’m looking to collaborate on: **Open Source Projects** <img src="https://medi
 I love learning new technologies and contributing to open source.  
 Always excited to work on something creative and meaningful.
 
-## 📊 GitHub Activity
-
 <p align="center">
   <img src="./metrics.classic.svg" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="./metrics.plugin.isocalendar.full-year.svg" />
 </p>
 ## 📫 How to reach me
