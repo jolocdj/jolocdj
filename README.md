@@ -1,42 +1,66 @@
-🎓 Student / Developer  
-💻 Passionate about coding & building projects  
-🌏 Based in the Philippines  
+<!-- PROFILE README -->
+
+<p align="center">
+  <img src="https://your-image-link-here" alt="banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ae/49/f0/ae49f0b2eaf092695185f90a8ce26df8.gif" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Jolo</h1>
+<h3 align="center">Aspiring Developer | Tech Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: **Your cur
-- 🌱 I’m currently learning: **Web Dev / Python / etc.**
-- 👯 I’m looking to collaborate on: **Open source / apps**
-- 💬 Ask me about: **Anything tech-related**
-- ⚡ Fun fact: I love late-night coding 😄  
+- 🔭 I’m currently working on: **Your Project Here**
+- 🌱 I’m currently learning: **Web Development / Python**
+- 👯 I’m looking to collaborate on: **Open Source Projects**
+- 💬 Ask me about: **Coding, Tech, or Projects**
+- ⚡ Fun fact: I code better at night 🌙
 
 ---
 
 ## 📊 GitHub Stats
-![Jolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolocdj&show_icons=true&theme=tokyonight)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=jolocdj&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jolocdj&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=jolocdj&theme=tokyonight" />
+</p>
+
+---
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jolocdj&theme=tokyo-night)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jolocdj&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-- Facebook: your link  
-- LinkedIn: your link  
-- Portfolio: your site  
+
+<p align="center">
+  <a href="https://facebook.com/yourprofile">Facebook</a> •
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="https://your-portfolio.com">Portfolio</a>
+</p>
 
 ---
 
-⭐️ From [jolocdj](https://github.com/jolocdj)
+<p align="center">
+  ⭐️ From <a href="https://github.com/jolocdj">jolocdj</a>
+</p>
