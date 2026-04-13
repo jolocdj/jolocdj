@@ -22,7 +22,7 @@ Always excited to work on something creative and meaningful.
 </p>
 
 <p align="left">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" />
+   <img src="./metrics.plugin.isocalendar.full-year.svg" />
 </p>
 
 ##  How to reach me  <img src="https://i.pinimg.com/originals/49/af/20/49af2056717bdc97ea295b1329ad294b.gif" width="20px"/>
