@@ -28,7 +28,7 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.full-year.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: YOUR_USERNAME
+          user: jolocdj
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
