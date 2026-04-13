@@ -19,28 +19,7 @@ I’m looking to collaborate on: **Open Source Projects** <img src="https://medi
 I love learning new technologies and contributing to open source.  
 Always excited to work on something creative and meaningful.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
-## 📫 How to reach me
 ## 📫 How to reach me
 
 - 🤝 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/alfred-jolo-de-jesus-5227b7379/?locale=en)**
 - 📧 Reach me at **alfredjolodejesus@gmail.com**
-
----
-
-<p align="center">
-  ⭐️ Thanks for visiting my profile!
-</p>
