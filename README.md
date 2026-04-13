@@ -21,7 +21,7 @@ Always excited to work on something creative and meaningful.
   <img src="./metrics.classic.svg" />
 </p>
 
-<p align="left">
+<p align="right">
    <img src="./metrics.plugin.isocalendar.full-year.svg" />
 </p>
 
