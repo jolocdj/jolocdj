@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://ph.pinterest.com/pin/2462974792900749/" width="80%" />
+  <img src="[https://ph.pinterest.com/pin/2462974792900749/](https://pin.it/4OMx6htqK)" width="80%" />
 </p>
 
 ## 🚀 About Me
