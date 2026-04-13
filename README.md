@@ -1,7 +1,3 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Jolo
-
 🎓 Student / Developer  
 💻 Passionate about coding & building projects  
 🌏 Based in the Philippines  
@@ -9,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: **Your current project**
+- 🔭 I’m currently working on: **Your cur
 - 🌱 I’m currently learning: **Web Dev / Python / etc.**
 - 👯 I’m looking to collaborate on: **Open source / apps**
 - 💬 Ask me about: **Anything tech-related**
