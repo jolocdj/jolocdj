@@ -14,8 +14,6 @@ Currently exploring **Javascript** and **Python**.
 
 - 🌱 I’m currently learning: **Javascript / Python**
 - 👯 I’m looking to collaborate on: **Open Source Projects**
-- 💬 Ask me about: **Coding, Tech, or Projects**
-- ⚡ Fun fact: **I code better at night 🌙**
 
 I love learning new technologies and contributing to open source.  
 Always excited to work on something creative and meaningful.
@@ -23,9 +21,8 @@ Always excited to work on something creative and meaningful.
 
 ## 📫 How to reach me
 
-- ✍️ I also write on **[Medium](https://medium.com/@yourusername)**
-- 🤝 Let’s connect on **[LinkedIn](https://linkedin.com/in/yourusername)**
-- 📧 Reach me at **yourname@email.com**
+- 🤝 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/alfred-jolo-de-jesus-5227b7379/?locale=en)**
+- 📧 Reach me at **alfredjolodejesus@gmail.com**
 
 ---
 
