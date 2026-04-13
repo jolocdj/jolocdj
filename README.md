@@ -10,22 +10,25 @@
 I am an **IT undergraduate** passionate about building cool things with code.  
 Currently exploring **Javascript** and **Python**.
 
-I’m currently learning: **Javascript / Python**  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="20px"/>
+I’m currently learning: **Javascript / Python** <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="20px"/>
 
 I’m looking to collaborate on: **Open Source Projects** <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="20px"/>
- 
+
 I love learning new technologies and contributing to open source.  
 Always excited to work on something creative and meaningful.
 
-<p align="left">
-  <img src="./metrics.classic.svg" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="./metrics.classic.svg" />
+    </td>
+    <td>
+      <img src="./metrics.plugin.isocalendar.fullyear.svg" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="./metrics.plugin.isocalendar.full-year.svg" />
-</p>
-
-##  How to reach me  <img src="https://i.pinimg.com/originals/49/af/20/49af2056717bdc97ea295b1329ad294b.gif" width="20px"/>
+## How to reach me <img src="https://i.pinimg.com/originals/49/af/20/49af2056717bdc97ea295b1329ad294b.gif" width="20px"/>
 
 - 🤝 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/alfred-jolo-de-jesus-5227b7379/?locale=en)**
 - 📧 Reach me at **alfredjolodejesus@gmail.com**
