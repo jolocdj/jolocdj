@@ -21,10 +21,6 @@ Always excited to work on something creative and meaningful.
   <img src="./metrics.classic.svg" />
 </p>
 
-<p align="right">
-   <img src="./metrics.plugin.isocalendar.full-year.svg" />
-</p>
-
 ##  How to reach me  <img src="https://i.pinimg.com/originals/49/af/20/49af2056717bdc97ea295b1329ad294b.gif" width="20px"/>
 
 - 🤝 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/alfred-jolo-de-jesus-5227b7379/?locale=en)**
