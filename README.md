@@ -10,7 +10,7 @@
 I am an **IT undergraduate** passionate about building cool things with code.  
 Currently exploring **Javascript**, **React**, **PostgreSQL**, and **Python**.
 
-I’m currently learning: **Javascript / Python** <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="20px"/>
+I’m currently learning: **Javascript / Reactn / PostgreSQL and Python** <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="20px"/>
 
 I’m looking to collaborate on: **Open Source Projects** <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="20px"/>
 
